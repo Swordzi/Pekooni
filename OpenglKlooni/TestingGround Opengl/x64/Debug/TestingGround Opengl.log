@@ -1,0 +1,4 @@
+﻿  Main.cpp
+D:\OpenglKlooni\TestingGround Opengl\Main.cpp(20,33): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\OpenglKlooni\TestingGround Opengl\Main.cpp(20,33): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  TestingGround Opengl.vcxproj -> D:\OpenglKlooni\TestingGround Opengl\x64\Debug\TestingGround Opengl.exe
